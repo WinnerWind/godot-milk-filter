@@ -17,5 +17,20 @@ Post Processing effects for Godot, with close reference to the game Milk Outside
 - `room&field.gdshader` -> A filter based on the Room and Field ending from Milk Outside of a Bag of Milk Outside of a Bag of Milk
 - `stairs.gdshader` -> A filter based on the Stairs ending from Milk Outside of a bag of Milk Outside of a Bag of milk
 - `palleted.gdshader` -> Same shaders as above, but with colours that can be configured.
+
+# Samples
+## No Shader
+![image](https://github.com/user-attachments/assets/10acbf31-1422-4b4f-a042-477ecfcbd516)
+## Just Pixelate
+![image](https://github.com/user-attachments/assets/04de46bb-9ea8-4e73-8017-c1fc73e07fad)
+## Milk1 
+![image](https://github.com/user-attachments/assets/09d4308a-675d-4f4c-a9b4-5aeacab5248a)
+## Milk2
+![image](https://github.com/user-attachments/assets/67edb7e4-23e1-4e44-b21c-85aa048169f9)
+## Room & Field
+![image](https://github.com/user-attachments/assets/1bc36310-4eb2-4035-bf55-b5f50e73c08d)
+## Stairs
+![image](https://github.com/user-attachments/assets/96ceb97e-2907-46ee-a115-6e273bb53927)
+
 # END
 Please [contact me](https://winnerwind.github.io) in case of errors. Enjoy!
